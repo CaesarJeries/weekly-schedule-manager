@@ -1,4 +1,4 @@
-# weekly-schedule-manager
+# Chronos
 
 A web app to manage weekly work schedules for a group of users managed by a team of managers.
 All users must be registered via email, and at least one of whom is defined as a manager.
